@@ -1,0 +1,17 @@
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Bank {
+
+    private Map<String, Account> accounts = new HashMap<>();
+
+    public void addAccount(Account account) {
+        accounts.put(account.getAccountNumber(), account);
+        System.out.println("Account created successfully.");
+    }
+
+    public Account getAccount(String accountNumber) {
+        return accounts.get(accountNumber);
+    }
+}
