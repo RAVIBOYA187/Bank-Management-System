@@ -25,7 +25,12 @@ A console-based Bank Management System developed using Core Java, implementing c
 ---
 
 ## 📊 UML Class Diagram
-(Add UML image here)
+
+![UML Diagram](UML_Diagram.png)
+
+
+<img width="804" height="554" alt="image" src="https://github.com/user-attachments/assets/c8515797-35a6-4be9-9af2-cf07a79aa5f5" />
+
 
 ---
 
